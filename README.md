@@ -3,7 +3,7 @@
   <br>
   Desafio de Herói - Dio.me
 </h1>
-Este é um projeto desenvolvido durante o desafio da plataforma [DIO](https://web.dio.me/), a qual estou participando do Bootcamp Santander 2025 Front-End JS, que propõe a criação de um **classificador de nível de herói** com base em sua quantidade de XP.
+Este é um projeto desenvolvido durante o desafio da plataforma www.dio.me, a qual estou participando do Bootcamp Santander 2025 Front-End JS, que propõe a criação de um **classificador de nível de herói** com base em sua quantidade de XP.
 
 ---
 
