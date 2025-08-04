@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #332d2d;
+    color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+}
+
+input {
+    margin: 10px;
+    padding: 8px;
+    border-radius: 4px;
+    border: none;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: rgb(65, 207, 65);
+    color: black;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
