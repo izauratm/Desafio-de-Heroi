@@ -44,7 +44,7 @@ Criar uma aplicação que recebe o **nome** do herói e sua **experiência (XP)*
 
 Você pode abrir o arquivo `index.html` no navegador para testar a aplicação localmente.
 
-Ou visualizar o projeto online via **GitHub Pages** *(se você quiser, posso te ensinar a publicar lá!)*
+Ou visualizar o projeto online via **GitHub Pages** *[Desafio-de-Herói](https://izauratm.github.io/Desafio-de-Heroi/)*
 
 ---
 
